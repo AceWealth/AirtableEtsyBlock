@@ -4,7 +4,7 @@ A block to integrate Airtable with Etsy - the block allows a user to create a (d
 
 ![Authorising Etsy and making a listing in the block](images/demo.gif)
 
-Check this out in action on [Airtable](https://airtable.com/shrwrmEzIfHBsWBAY)
+Check this out in action on [Airtable](https://airtable.com/shraTO6yMpDmCAv4D)
 
 ## Docs
 
